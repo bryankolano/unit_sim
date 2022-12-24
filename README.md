@@ -3,6 +3,14 @@
 #### August 19th, 2022
 ---
 
+### Description of files
+This is a short breakdown of the files in this repo
+
+1. data.xlsx: data file for the simulation.
+2. unit_sim.ipynb: python simulation file
+3. population_shiny_file.R: R Shiny app
+4. changeable_inputs_mult.R: R script the Shiny app reads from 
+
 ### Background
 
 From July - August, 2022, I had to participate in the Qualification Course for Army Operations Research and Systems Analysts (ORSA) or in other words, the data scientists of the Army.  As part of this course, each member was part of a 6-7 person capstone project team.  A few weeks into the course, each capstone team received a real-world project from an Army organization.  Many of these projects were data analysis, but not all of them.  <br>
