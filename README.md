@@ -62,7 +62,7 @@ Although I spent a few years writting R code, I had never written an R Shiny app
 
 This was the hardest part of whole capstone project since I was unfamiliar with Shiny.  Finally, I was able to get the R Shiny application working. It allows user to modify how many MAJs and CPTs a year they plan to/ would like to assess.  For example, if the unit wants to increase their recruitment efforts for the first three years and increase from 2 MAJs and 1 CPT to say 5 MAJs and 5 CPTs, then the app will update with the new graphs.  Additionally, the app allows the user to change the number of simulations run.  
 
-![Shiny Screengrab](shiny_grab.jpg)
+![Shiny Screengrab](https://github.com/bryankolano/unit_sim/blob/master/shiny_grab.JPG)
 
 At the end, the unit had our team's outbrief based on the simulation and analysis, but also received the R Shiny app code in case they wanted to continue with their further analysis.  
 
