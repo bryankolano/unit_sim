@@ -85,5 +85,5 @@ Dash app with box plot outputs:
 ![box plots](https://github.com/bryankolano/unit_sim/blob/master/dash_box.jpg)
 
 
-Dash app with histogramm outputs:
+Dash app with histogram outputs:
 ![histogram](https://github.com/bryankolano/unit_sim/blob/master/dash_column.jpg)
