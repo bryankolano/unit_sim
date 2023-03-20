@@ -10,6 +10,8 @@ This is a short breakdown of the files in this repo
 2. unit_sim.ipynb: python simulation file
 3. population_shiny_file.R: R Shiny app
 4. changeable_inputs_mult.R: R script the Shiny app reads from 
+5. requirements.txt
+6. (Update 12/31/22) app.py: Plotly Dash unit dashboard app
 
 ### Background
 
@@ -72,3 +74,16 @@ Given more time with the project and the app, we could have continued to make th
 ### Summary
 
 After all that work in R, I wanted to bring the focus back to python.  Although we are done with the project with the supported unit, I wanted to continue to iterate on this project.  The current plan is to turn this project into a Plotly Dash application.  It would work similar to the R Shiny app.  I have never used Plotly Dash either, so this will be an exploration into creating a Dash app, and I think it will be educational and entertaining.
+
+
+### Update (December 31st, 2022): Plotly Dash Application
+As mentioned in the summary section above, I stated how I had plans to learn Plotly Dash to make an equivalent dashboard to the one I made for the Army unit in R shiny.  As I explored Dash, I learned about its functionality to be able to make my simulation dashboard.  <br>
+
+Similar to the R shiny application, I created user inputs for number of simulations and manual selection of new captains and majors each year.  Additionally, for this dashboard, I created inputs for the user to change the promotion probablility of a given rank, and I explored created output tabs.  Therefore, a user could view box plots of the output or a histogram of the simulation out.  Just like the R Shiny example, the screenshots below show the sensitivity analysis if the unit wanted to increase its recruiting efforts for the first three years and add five captains and five majors. See the screenshots belows for the final product.
+
+Dash app with box plot outputs:
+[box plots](https://github.com/bryankolano/unit_sim/blob/master/dash_box.jpg)
+
+
+Dash app with histogramm outputs:
+[histogram](https://github.com/bryankolano/unit_sim/blob/master/dash_column.jpg)
