@@ -82,8 +82,8 @@ As mentioned in the summary section above, I stated how I had plans to learn Plo
 Similar to the R shiny application, I created user inputs for number of simulations and manual selection of new captains and majors each year.  Additionally, for this dashboard, I created inputs for the user to change the promotion probablility of a given rank, and I explored created output tabs.  Therefore, a user could view box plots of the output or a histogram of the simulation out.  Just like the R Shiny example, the screenshots below show the sensitivity analysis if the unit wanted to increase its recruiting efforts for the first three years and add five captains and five majors. See the screenshots belows for the final product.
 
 Dash app with box plot outputs:
-[box plots](https://github.com/bryankolano/unit_sim/blob/master/dash_box.jpg)
+![box plots](https://github.com/bryankolano/unit_sim/blob/master/dash_box.jpg)
 
 
 Dash app with histogramm outputs:
-[histogram](https://github.com/bryankolano/unit_sim/blob/master/dash_column.jpg)
+![histogram](https://github.com/bryankolano/unit_sim/blob/master/dash_column.jpg)
